@@ -1,0 +1,3 @@
+#+TITLE: 文章链接
+
+- [[http://unixwiz.net/techtips/reading-cdecl.html][Reading C type declarations]]
